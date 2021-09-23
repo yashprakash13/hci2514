@@ -31,9 +31,8 @@ Create a copy of this file for yourself and check off each item as you complete 
 ## Things you should've done by the end of the course
 
 1. Compiled all your weekly reflections neatly with your name in the Digital Brain document, in *Joseph's* words:
-
 > Digital Brain is a one stop place for you to keep track of everything you learned in the course, what links are useful, what your reflections are. So put your planning & reflections into the weekly Gdoc, AND #zzDuplicateCopyPaste them into your Digital Brain. Create a Gdoc called " Suhyeon Yoo #zzDigitalBrain" and that's hwere you put all the information yo uwant to keep track off. And if in 1 month, 3 months, 2 years you were to come back and try to refresh on what you'd learned, that Doc should make it easy for you to do it.
 
-2. Posted all the contributions you've made throughout the course towards helping with organisation, doing things during the lectures, helping your classmates through various technologies and mediums, etc, in your own [Contributions](https://drive.google.com/drive/folders/1xhJ713a8js2I-q-wpxFBcTqi0qv3YBD5?usp=sharing) document in the course folder. 
+2. Post all the contributions you've made throughout the course towards helping with organisation, doing things during the lectures, helping your classmates through various technologies and mediums, etc, in your own [Contributions](https://drive.google.com/drive/folders/1xhJ713a8js2I-q-wpxFBcTqi0qv3YBD5?usp=sharing) document in the course folder. 
 
 
