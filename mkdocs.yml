@@ -1,0 +1,25 @@
+site_name: Unofficial HCI CSC2514 Fall-2021 Hub 
+theme:
+    name: material
+    icon:
+        logo: octicons/book-24
+        repo: fontawesome/brands/github
+        language: en
+        features:
+            - instant
+            - header.autohide
+            - search.highlight
+            - search.share
+            - search.suggest
+            - navigation.top
+            - navigation.tabs
+            - navigation.sections
+            - navigation.expand
+    palette:
+        scheme: slate
+        primary: black
+        accent: black
+    font:
+        text: Roboto
+        code: Roboto Mono
+
