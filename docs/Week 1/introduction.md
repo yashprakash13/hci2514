@@ -28,3 +28,10 @@
     * What's some random personal/fun fact about me, like a hobby, or something different, or even something 'boring' that will spark conversation.
 - Throw out another idea and just tell people what you're doing, ask for feedback!
 - What else? 
+
+
+## Reading
+
+- Read the HCI book chapter 5 from [here](https://docs.google.com/document/d/1V6iBpPV5Vr6vp8TOj2YHJzCHcdSb7_gqNl66nf_RCSo/edit?usp=sharing)
+- Mention your ideas, thoughts, questions, answers to someone else's questions in the comments in the doc as you read
+- Write your weekly reflection after you're done with it :)
